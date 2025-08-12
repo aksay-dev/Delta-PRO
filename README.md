@@ -11,6 +11,6 @@ WiKi документация по проекту Microtec v0.3.0
     *   [**Доска задач RedMine**](https://redmine.microtec-lab.ru/)
     *   [**Публичная Документация**](https://github.com/aksay-dev/Delta-PRO/wiki)
     *   [**Приватная Документация**](https://redmine.microtec-lab.ru/)
-    *   Канал коммуникации Telegram (группа: [**Microtec v0.3.0**](https://t.me/+d94nMWYV1OI2NzJi)
+    *   Канал коммуникации Telegram группа: [**Microtec v0.3.0**](https://t.me/+d94nMWYV1OI2NzJi)
 
 ***
